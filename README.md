@@ -4,6 +4,6 @@ Case Study
 Rosario Olloqui  
 Ricardo Miguel Ramos zevallos  
 Dario Dominguez  
-Antonio Palafox  
+José Antonio Palafox Cazares
 Juan Pablo Pérez  
 Gianluis Rojas  
