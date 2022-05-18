@@ -1,6 +1,9 @@
 # CrystalTEC-EnergyData
 Case Study
 
+
+## Team Members
+
 Rosario Olloqui  
 Ricardo Miguel Ramos zevallos  
 Dario Dominguez  
